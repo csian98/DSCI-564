@@ -37,9 +37,6 @@
 	</p>
 </div>
 
-## Homework
-
-
 ## Project
 
 
